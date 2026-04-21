@@ -10,7 +10,6 @@
     "serve:ssr:audit-portal": "node dist/audit-portal/server/server.mjs"
   },
   "private": true,
-  "packageManager": "npm@11.11.0",
   "dependencies": {
     "@angular/common": "^21.2.0",
     "@angular/compiler": "^21.2.0",
