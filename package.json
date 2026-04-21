@@ -9,7 +9,6 @@
     "test": "ng test",
     "serve:ssr:audit-portal": "node dist/audit-portal/server/server.mjs"
   },
-  "private": true,
   "dependencies": {
     "@angular/common": "^21.2.0",
     "@angular/compiler": "^21.2.0",
